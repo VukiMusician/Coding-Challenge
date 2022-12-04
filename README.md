@@ -10,7 +10,7 @@
 
 - Download or clone this repository to your local machine: 
 ```
-git clone https://github.com/VukiMusician/Code-1.git
+git clone https://github.com/VukiMusician/Coding-Challenge.git
 ``` 
 - Open it in your preferred code editor 
 - Navigate to the Coding Challenge folder
@@ -45,9 +45,13 @@ A simple two pages app with quotes fetched from api.quotable.io.
     ├── package.json            # Application dependencies/packages (install them through *npm install* ) 
     └── README.md               # Application thorough description
 
-## Coding Challnge Screenshots
+## Coding Challenge Screenshots
 
- 
+
+<img width="1440" alt="Screen Shot 2022-12-04 at 1 27 30 PM" src="https://user-images.githubusercontent.com/65421356/205490572-c0a7b7fd-383c-4bb2-b1db-6c44e2284c22.png">
+
+<img width="1440" alt="Screen Shot 2022-12-04 at 1 27 51 PM" src="https://user-images.githubusercontent.com/65421356/205490577-76cc06e6-91e0-4457-9a24-70d02e6bac89.png">
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
