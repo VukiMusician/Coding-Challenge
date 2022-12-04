@@ -30,7 +30,7 @@ A simple two pages app with quotes fetched from api.quotable.io.
 
 ## Application Structure
     
-    Booking GetAways
+    Coding Challenge
     .
     ├── public                  # Application <html> </html> and favicon
     ├── src                     # Source files 
