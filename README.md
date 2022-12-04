@@ -1,4 +1,4 @@
-# **Coding Challnge for internship at Mozok**
+# **Coding Challenge for internship at Mozok**
 
 **Visual Experience** for **Coding Challenge*. 
 
