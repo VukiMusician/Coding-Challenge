@@ -52,6 +52,8 @@ A simple two pages app with quotes fetched from api.quotable.io.
 ## Coding Challenge Screenshots
 <img width="1440" alt="Screen Shot 2022-12-04 at 1 27 30 PM" src="https://user-images.githubusercontent.com/65421356/205490679-6fd61bfc-0117-4a28-accc-5666e67ac948.png">
 
+<img width="1440" alt="Screen Shot 2022-12-04 at 1 27 51 PM" src="https://user-images.githubusercontent.com/65421356/205490807-4096cc47-b551-4096-8f2d-e88c9f7e5c98.png">
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
