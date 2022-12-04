@@ -18,8 +18,12 @@ git clone https://github.com/VukiMusician/Coding-Challenge.git
 ```
 npm install
 ``` 
+- To start the project run
+
+```
 npm start
 ``` 
+
 - You will be redirected to the browser, but nevertheless, you might as well navigate to: localhost:3000
 
 
